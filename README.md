@@ -6,7 +6,6 @@
 The objective of this project was to conduct an internal security audit for a fictional company, Botium Toys, by identifying gaps in their current security posture and proposing actionable recommendations to enhance their cybersecurity framework. The audit focused on analyzing risks, assessing compliance with industry standards, and suggesting security controls to mitigate vulnerabilities.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Application of risk assessment methodologies to identify and evaluate vulnerabilities.
 - Understanding and implementation of security controls, including least privilege and separation of duties.
@@ -15,8 +14,6 @@ The objective of this project was to conduct an internal security audit for a fi
 - Critical thinking and communication skills for summarizing findings and presenting them in a professional format.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
 - Risk Assessment Frameworks: Used to evaluate the organization’s existing risks and prioritize mitigation strategies.
 Compliance Standards:
   PCI DSS: Analyzed the organization’s handling of cardholder data.
