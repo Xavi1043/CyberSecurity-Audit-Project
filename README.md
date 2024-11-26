@@ -1,4 +1,4 @@
-#Google's Internal Security Audit Project
+Google's Internal Security Audit Project
 
 
 ## Objective
