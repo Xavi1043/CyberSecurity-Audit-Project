@@ -16,7 +16,9 @@ The objective of this project was to conduct an internal security audit for a fi
 ### Tools Used
 - Risk Assessment Frameworks: Used to evaluate the organization’s existing risks and prioritize mitigation strategies.
 Compliance Standards:
+
   PCI DSS: Analyzed the organization’s handling of cardholder data.
+  
   NIST Cybersecurity Framework: Assessed the organization’s implementation of the Identify, Protect, Detect, Respond, and Recover functions.
 
 ## Steps
